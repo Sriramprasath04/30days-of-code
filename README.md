@@ -7,7 +7,7 @@
   2)  <a href="https://www.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&category=Arrays,Binary%20Search&difficulty=Basic&sortBy=submissions">Binary Search</a>
   3)  <a href="https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1?page=1&category=Binary%20Search&difficulty=Basic&sortBy=submissions">Searching an element in a sorted array</a>
 <hr>
-#Day 2 **( Solved problems:  )**
+#Day 2 **( Solved problems: 24 )**
 
   Solved pattern problems
   1) <a href = "https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/">Completed Pattern problems from Striver's Must Do Pattern Sheet</a>
