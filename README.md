@@ -12,3 +12,9 @@
   Solved pattern problems
   1) <a href = "https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/">Completed Pattern problems from Striver's Must Do Pattern Sheet</a>
   2) Hallow Triangle, X shape
+<hr>
+#Day 2 **( Solved problems: 2 )**
+
+  Learned about stack and Solved problems on it
+  1) (<a href="https://www.geeksforgeeks.org/stack-class-in-java/">Reference</a>)
+  2) <a href = "https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1?page=1&sortBy=submissions">Parenthesis Checker</a>
