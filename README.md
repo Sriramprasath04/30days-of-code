@@ -18,3 +18,9 @@
   Learned about stack and Solved problems on it
   1) (<a href="https://www.geeksforgeeks.org/stack-class-in-java/">Reference</a>)
   2) <a href = "https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1?page=1&sortBy=submissions">Parenthesis Checker</a>
+
+
+#Day 3 **( Solved problems: 4 )**
+
+  Learned about linkedlists and Solved problems on it
+  1) (<a href="https://www.geeksforgeeks.org/data-structures/linked-list/">Reference</a>)
