@@ -1,0 +1,33 @@
+import java.util.*;
+public class Solution {
+    public static List< Integer > nextGreaterPermutation(List< Integer > A) {
+        // Write your code here.
+        int n = A.size();
+        ArrayList<Integer> ans = new ArrayList<>();
+        int indx = -1;
+        for(int i=n-2; i>=0 ;i--){
+            if(A.get(i)<A.get(i+1)){
+                indx = i;
+                break;
+            }
+        }
+
+        if(indx==-1){
+            Collections.reverse(A);
+            return A;
+        }
+
+        for(int i=n-1; i>=indx ;i--){
+            if(A.get(i)>A.get(indx)){
+                int temp = A.get(i);
+                A.set(i,A.get(indx));
+                A.set(indx,temp);
+                break;
+            }
+        }
+
+        List<Integer>subLis = A.subList(indx+1, n);
+        Collections.reverse(subLis);
+        return A; 
+    }
+}
