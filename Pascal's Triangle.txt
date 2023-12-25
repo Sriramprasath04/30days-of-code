@@ -1,0 +1,23 @@
+import java.util.*;
+public class Solution {
+    public static int[][] pascalTriangle(int N) {
+        // Write your code here.
+        int[][] triangle = new int[N][N];
+        for(int i=1; i<=N ;i++){
+            triangle[i-1]=row(i);
+        }
+        return triangle;
+    }
+
+    public static int[] row(int n){
+        long res=1;
+        int[] row = new int[n];
+        row[0]= (int)res;
+        for(int i=1; i<n ;i++){
+            res = res*(n-i);
+            res = res/(i);
+            row[i]= (int)res;
+        }
+        return row;
+    }
+}
