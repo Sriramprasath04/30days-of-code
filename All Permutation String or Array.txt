@@ -1,0 +1,38 @@
+import java.util.* ;
+import java.io.*; 
+public class Solution {
+    public static List<String> findPermutations(String s) {
+        // Write your code here.
+        List<String> ans = new ArrayList<>();
+        boolean[] freq = new boolean[s.length()];
+        ArrayList<Character> permu = new ArrayList<>();
+        char[] arr = s.toCharArray();
+        recurPermu(arr, ans, permu, freq);
+        return ans;
+    }
+
+    static String toStr(List<Character> lis){
+        String sol = "";
+        for(char i:lis){
+            sol +=i;
+        }
+        return sol;
+    }
+    static void recurPermu(char[]arr,List<String> ans,List<Character> permu,boolean[] freq){
+        if(permu.size()==arr.length){
+            String sol = toStr(permu);
+            ans.add(sol);
+            return;
+        }
+
+        for(int i=0; i<arr.length ;i++){
+            if(!freq[i]){
+                freq[i]=true;
+                permu.add(arr[i]);
+                recurPermu(arr, ans, permu, freq);
+                permu.remove(permu.size()-1);
+                freq[i]=false;
+            }
+        }
+    }
+}
