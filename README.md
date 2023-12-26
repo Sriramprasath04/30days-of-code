@@ -12,8 +12,16 @@ Arrays ( Solved problems:  5)
   2)  <a href="https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/">Pascal's Triangle</a>
   3)  <a href="https://takeuforward.org/data-structure/print-all-permutations-of-a-string-array/">All Permutation {String/Array}</a>
   4)  <a href="https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/">Next Permutation</a>
-  4)  <a href="https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/">Kadane's Algorithm</a>
+  5)  <a href="https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/">Kadane's Algorithm</a>
+
+**#Day 2**
   
-  
+  Arrays ( Solved problems:  1)
+
+  1)  <a href="https://takeuforward.org/data-structure/set-matrix-zero/">Set Matrix Zeros</a>
+  2)  <a href="https://takeuforward.org/data-structure/stock-buy-and-sell/">Stock Buy and Sell</a>
+  3)  <a href=""></a>
+  4)  <a href=""></a>
+  5)  <a href=""></a>
 
 
