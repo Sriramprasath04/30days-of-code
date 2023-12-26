@@ -16,7 +16,7 @@ Arrays ( Solved problems:  5)
 
 **#Day 2**
   
-  Arrays ( Solved problems:  1)
+  Arrays ( Solved problems:  2)
 
   1)  <a href="https://takeuforward.org/data-structure/set-matrix-zero/">Set Matrix Zeros</a>
   2)  <a href="https://takeuforward.org/data-structure/stock-buy-and-sell/">Stock Buy and Sell</a>
