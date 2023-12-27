@@ -23,3 +23,10 @@ Arrays ( Solved problems:  5)
   3)  <a href="https://takeuforward.org/data-structure/rotate-image-by-90-degree/">Rotate Matrix</a>  ( <a href="https://www.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space1004/1">Without Extra Space</a>,  <a href="https://www.geeksforgeeks.org/problems/rotate-by-90-degree0356/1">With Extra Space</a> )
   4)  <a href="https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/">Find the duplicate in an array of N+1 inters</a>
   5)  <a href="https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/">Merge two Sorted Arrays With & Without Extra Space</a> 
+
+**#Day 2**
+  
+  Arrays ( Solved problems:  2)
+
+  1) <a href="https://youtu.be/T8ErAYobcbc?si=7-RYu-DyT5pPEbdm">Anti Diagonal Traversal of Matrix</a> ( <a href="https://www.geeksforgeeks.org/problems/print-diagonally1623/1">Problem</a> )
+  2) <a href="https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/">Longest Consecutive Sequence</a>
