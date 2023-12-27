@@ -14,7 +14,7 @@ Arrays ( Solved problems:  5)
   4)  <a href="https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/">Next Permutation</a>
   5)  <a href="https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/">Kadane's Algorithm</a>
 
-**#Day 2**
+**#Day 3**
   
   Arrays ( Solved problems:  5)
 
