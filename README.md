@@ -14,7 +14,7 @@ Arrays ( Solved problems:  5)
   4)  <a href="https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/">Next Permutation</a>
   5)  <a href="https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/">Kadane's Algorithm</a>
 
-**#Day 3**
+**#Day 2**
   
   Arrays ( Solved problems:  5)
 
@@ -24,9 +24,18 @@ Arrays ( Solved problems:  5)
   4)  <a href="https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/">Find the duplicate in an array of N+1 inters</a>
   5)  <a href="https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/">Merge two Sorted Arrays With & Without Extra Space</a> 
 
-**#Day 2**
+**#Day 3**
   
   Arrays ( Solved problems:  2)
 
   1) <a href="https://youtu.be/T8ErAYobcbc?si=7-RYu-DyT5pPEbdm">Anti Diagonal Traversal of Matrix</a> ( <a href="https://www.geeksforgeeks.org/problems/print-diagonally1623/1">Problem</a> )
   2) <a href="https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/">Longest Consecutive Sequence</a>
+
+**#Day 4**
+  
+  Arrays ( Solved problems:  2)
+
+  1) <a href="https://takeuforward.org/data-structure/merge-sort-algorithm/">Merge Sort</a>
+  2) <a href="https://takeuforward.org/data-structure/count-inversions-in-an-array/#brute-force-approach">Count Inversion</a>
+  3) <a href=""></a>
+  4) <a href=""></a>
