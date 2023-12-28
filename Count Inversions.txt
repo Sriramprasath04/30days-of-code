@@ -17,3 +17,88 @@ public class Solution {
         return counter;
     }
 }
+
+
+// Optimal approach
+
+import java.util.*;
+import java.io.*;
+import java.lang.*;
+
+class Sorting
+{
+    public static void main (String[] args) 
+    {
+        Scanner sc = new Scanner(System.in);
+        long t = sc.nextLong();
+        
+        while(t-- > 0)
+        {
+            long n = sc.nextLong();
+            long arr[] = new long[(int)n];
+            
+            for(long i = 0; i < n; i++)
+             arr[(int)i] = sc.nextLong();
+             
+            System.out.println(new Solution().inversionCount(arr, n));
+            
+        }
+    }
+}
+
+class Solution
+{
+    
+    //int counter = 0;
+    static long inversionCount(long arr[], long N)
+    {
+        return Sort(arr, 0, arr.length-1);
+    }
+    
+    static long Sort(long[] arr, int low, int high){
+        long cnt = 0;
+        if(low>=high){
+            return cnt;
+        }
+        
+        int mid = (low+high)/2;
+        cnt += Sort(arr, low, mid);
+        cnt += Sort(arr, mid+1, high);
+        cnt += merge(arr,low, mid, high);
+        return cnt;
+    }
+    
+    static long merge(long[] arr, int low, int mid, int high){
+        int i=low;
+        int j=mid+1;
+        List<Long> temp = new ArrayList<>();
+        long counter = 0;
+        
+        while(i<=mid && j<=high){
+            if(arr[i]<=arr[j]){
+                temp.add(arr[i]);
+                i++;
+            } else {
+                temp.add(arr[j]);
+                counter = counter + mid-i+1;
+                j++;
+            }
+        }
+        
+        while(i<=mid){
+            temp.add(arr[i]);
+            i++;
+        }
+        
+        while(j<=high){
+            temp.add(arr[j]);
+            j++;
+        }
+        
+        for(int k=low; k<=high ;k++){
+            arr[k] = temp.get(k-low);
+        }
+        
+        return counter;
+    }
+}
