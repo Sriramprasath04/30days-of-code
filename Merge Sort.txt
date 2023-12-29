@@ -46,8 +46,8 @@ public class Main
 	        j++;
 	    }
 	    
-	    for(int k=0; k<temp.size() ;k++){
-	        arr[k] = temp.get(k);
+	    for(int k=low; k<=high ;k++){
+	        arr[k] = temp.get(k-low);
 	    }
 	}
 }
