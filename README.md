@@ -37,5 +37,10 @@ Arrays ( Solved problems:  5)
 
   1) <a href="https://takeuforward.org/data-structure/merge-sort-algorithm/">Merge Sort</a>
   2) <a href="https://takeuforward.org/data-structure/count-inversions-in-an-array/#brute-force-approach">Count Inversion</a>
-  3) <a href=""></a>
-  4) <a href=""></a>
+
+**Day 5**
+
+Arrays ( Solved problems: )
+
+  1) <a href=""></a>
+  2) <a href=""></a>
