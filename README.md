@@ -43,7 +43,7 @@ Arrays ( Solved problems:  5)
 Arrays ( Solved problems: 2)
 
   1) <a href="https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/">Majority Element (>n/2 times)</a>
-  2) <a href="mentsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/">Majority Element (>n/2 times)</a>
+  2) <a href="https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/">Majority Element (>n/3 times)</a>
 
 **#Day 6**
 
