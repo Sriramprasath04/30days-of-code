@@ -36,7 +36,7 @@ Arrays ( Solved problems:  5)
   Arrays ( Solved problems:  2)
 
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Merge%20Sort.txt">Merge Sort</a>  <a href="https://takeuforward.org/data-structure/merge-sort-algorithm/">↗️</a>
-  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Count%20Inversions.txt">Count Inversion</a>  <a href="https://takeuforward.org/data-structure/count-inversions-in-an-array/#brute-force-approach">↗️a>
+  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Count%20Inversions.txt">Count Inversion</a>  <a href="https://takeuforward.org/data-structure/count-inversions-in-an-array/#brute-force-approach">↗️</a>
 
 **#Day 5**
 
@@ -47,6 +47,7 @@ Arrays ( Solved problems: 2)
 
 **#Day 6**
 
-Arrays( Solved Problems: )
+Arrays( Solved Problems: 2)
 
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Search%20in%20a%202%20D%20matrix.txt">Search in a 2 D matrix</a>  <a href="https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/">↗️</a>
+  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/2Sum%20Problem.txt">2Sum Problem</a>  <a href="https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/">↗️</a>
