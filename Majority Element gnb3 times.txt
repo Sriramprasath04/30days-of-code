@@ -1,0 +1,51 @@
+import java.util.*;
+
+public class Solution {
+    public static List<Integer> majorityElement(int[] v) {
+        // Write your code here
+        int n = v.length;
+        int count1 = 0, count2 = 0;
+        int ele1 = Integer.MIN_VALUE, ele2 = Integer.MIN_VALUE;
+        
+        List ans = new ArrayList<>();
+        if(n<=2){
+            ans.add(v[n-1]);
+            return ans;
+        }
+
+        for (int i = 0; i < n; i++) {
+            if (count1 == 0 && ele2 != v[i]) {
+                ele1 = v[i];
+                count1++;
+            } else if (count2 == 0 && ele1 != v[i]) {
+                ele2 = v[i];
+                count2++;
+            } else if (v[i] == ele1) {
+                count1++;
+            } else if (v[i] == ele2) {
+                count2++;
+            } else {
+                count1--;
+                count2--;
+            }
+        }
+
+        count1 = 0;
+        count2 = 0;
+        for (int i : v) {
+            if(i==ele1) count1++;
+            if(i==ele2) count2++;
+        }
+        
+        int mini = (n / 3) + 1;
+        if (count1 >= mini) {
+            ans.add(ele1);
+        }
+
+        if (count2 >= mini) {
+            ans.add(ele2);
+        }
+
+        return ans;
+    }
+}
