@@ -49,4 +49,4 @@ Arrays ( Solved problems: 2)
 
 Arrays( Solved Problems: )
 
-  1)<a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Search%20in%20a%202%20D%20matrix.txt">Search in a 2 D matrix</a>  <a href="https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/">↗️</a>
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Search%20in%20a%202%20D%20matrix.txt">Search in a 2 D matrix</a>  <a href="https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/">↗️</a>
