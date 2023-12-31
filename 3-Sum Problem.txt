@@ -1,0 +1,66 @@
+import java.util.*;
+public class Solution {
+    public static List< List < Integer > > triplet(int n, int []arr) {
+        List<List<Integer>> ans = new ArrayList<>();
+        Sort(arr, 0, n-1);
+
+        for(int i=0; i<n ;i++){
+            if(i!=0 && arr[i]==arr[i-1]) continue;
+            
+            int j=i+1;
+            int k=n-1;
+            while(j<k){
+                int sum = arr[i]+arr[j]+arr[k];
+                if(sum>0){
+                    k--;
+                } else if (sum<0) {
+                    j++;
+                } else {
+                    List<Integer> temp = Arrays.asList(arr[i], arr[j], arr[k]);
+                    ans.add(temp);
+                    j++;
+                    k--;
+                    while(j<k && arr[j]==arr[j-1]) j++;
+                    while(j<k && arr[k]==arr[k+1]) k--;
+                }
+            }
+        }
+        return ans;
+    }
+
+    static void Sort(int[] arr, int low, int high){
+        if(low>=high){
+            return;
+        }
+
+        int mid = (low+high)/2;
+        Sort(arr, low, mid);
+        Sort(arr, mid+1, high);
+        Merge(arr, low, mid, high);
+    }
+
+    static void Merge(int[] arr, int low, int mid, int high){
+        int i=low;
+        int j=mid+1;
+        List<Integer> temp = new ArrayList<>();
+        while(i<=mid && j<=high){
+            if(arr[i] <= arr[j]){
+                temp.add(arr[i++]);
+            } else {
+                temp.add(arr[j++]);
+            }
+        }
+
+        while(i<=mid){
+            temp.add(arr[i++]);
+        }
+
+        while(j<=high){
+            temp.add(arr[j++]);
+        }
+
+        for(int k=low; k<=high ;k++){
+            arr[k] = temp.get(k-low);
+        }
+    }
+}
