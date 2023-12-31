@@ -56,7 +56,7 @@ Arrays ( Solved Problems: 2)
 
 Arrays ( Solvede Problems: )
 
-  1) <a href="">3-Sum Problem</a>  <a href="https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/">↗️</a>
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/3-Sum%20Problem.txt">3-Sum Problem</a>  <a href="https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/">↗️</a>
   2) <a href="">4-Sum Problem</a>  <a href="https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/">↗️</a>
   3) <a href="">Largest Subarray with 0 Sum</a>  <a href="https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/">↗️</a>
   4) <a href="">Longest Consecutive Sequence</a>  <a href="https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/">↗️</a>
