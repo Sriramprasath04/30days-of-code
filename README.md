@@ -67,5 +67,5 @@ Arrays ( Solvede Problems: 4)
 
   1) <a href="">Merge Overlapping Subintervals</a>  <a href="https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/">↗️</a>
   2) <a href="">Repeat and Missing Number</a>  <a href="https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/">↗️</a>
-  3) <a href="">Pow(x, n)</a>  <a href="https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/">↗️</a>
+  3) <a href="https://github.com/Sriramprasath04/30days-of-code/commit/4f1b4fe3ec1b148a4dfa5bf8aceb64571cc3a891">Pow(x, n)</a>  <a href="https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/">↗️</a>
   4) <a href="">Grid Unique Paths</a>  <a href="https://takeuforward.org/data-structure/grid-unique-paths-count-paths-from-left-top-to-the-right-bottom-of-a-matrix/">↗️</a>
