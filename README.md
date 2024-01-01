@@ -52,7 +52,7 @@ Arrays ( Solved Problems: 2)
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Search%20in%20a%202%20D%20matrix.txt">Search in a 2 D matrix</a>  <a href="https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/">↗️</a>
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/2Sum%20Problem.txt">2Sum Problem</a>  <a href="https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/">↗️</a>
 
-**Day 7**
+**#Day 7**
 
 Arrays ( Solvede Problems: 4)
 
@@ -60,3 +60,12 @@ Arrays ( Solvede Problems: 4)
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/4-Sum%20Problem.txt">4-Sum Problem</a>  <a href="https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/">↗️</a>
   3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Largest%20Subarray%20with%20Zero%20sum.txt">Largest Subarray with 0 Sum</a>  <a href="https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/">↗️</a>
   4) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Longest%20Consecutive%20Sequence.txt">Longest Consecutive Sequence</a>  <a href="https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/">↗️</a>
+
+  **Day 8**
+  
+  Arrays ( Solved Problems: )
+
+  1) <a href="">Merge Overlapping Subintervals</a>  <a href="https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/">↗️</a>
+  2) <a href="">Repeat and Missing Number</a>  <a href="https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/">↗️</a>
+  3) <a href="">Pow(x, n)</a>  <a href="https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/">↗️</a>
+  4) <a href="">Grid Unique Paths</a>  <a href="https://takeuforward.org/data-structure/grid-unique-paths-count-paths-from-left-top-to-the-right-bottom-of-a-matrix/">↗️</a>
