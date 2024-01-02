@@ -9,10 +9,10 @@
 Arrays ( Solved problems:  5)
 
   1)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sort%20an%20array%20of%200's%2C%201's%20and%202's.txt">Sort an array of 0's, 1's and 2's</a>  <a href="https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/">↗️</a>
-  2)  <a href="">Pascal's Triangle</a>  <a href="https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/">↗️</a>
-  3)  <a href="">All Permutation {String/Array}</a>  <a href="https://takeuforward.org/data-structure/print-all-permutations-of-a-string-array/">↗️</a>
-  4)  <a href="">Next Permutation</a>  <a href="https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/">↗️</a>
-  5)  <a href="">Kadane's Algorithm</a>  <a href="https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/">↗️</a>
+  2)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Pascal's%20Triangle.txt">Pascal's Triangle</a>  <a href="https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/">↗️</a>
+  3)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/All%20Permutation%20String%20or%20Array.txt">All Permutation {String/Array}</a>  <a href="https://takeuforward.org/data-structure/print-all-permutations-of-a-string-array/">↗️</a>
+  4)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Next%20Permutation.txt">Next Permutation</a>  <a href="https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/">↗️</a>
+  5)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Kadane's%20Algorithm.txt">Kadane's Algorithm</a>  <a href="https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/">↗️</a>
 
 **#Day 2**
   
