@@ -1,4 +1,11 @@
- int min = Integer.MAX_VALUE;
+import java.util.* ;
+import java.io.*; 
+public class Solution
+{
+public static int minSubarraySum(ArrayList<Integer> arr, int n, int k)
+    {
+        // Write your code here.
+        int min = Integer.MAX_VALUE;
 
         int i = 0;
         int last = -1;
@@ -23,3 +30,5 @@
         min = Math.min(sum, min);
 
         return min;
+    }
+}
