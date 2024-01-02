@@ -69,3 +69,11 @@ Arrays ( Solvede Problems: 4)
   2) <a href="">Repeat and Missing Number</a>  <a href="https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/">↗️</a>
   3) <a href="https://github.com/Sriramprasath04/30days-of-code/commit/4f1b4fe3ec1b148a4dfa5bf8aceb64571cc3a891">Pow(x, n)</a>  <a href="https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/">↗️</a>
   4) <a href="">Grid Unique Paths</a>  <a href="https://takeuforward.org/data-structure/grid-unique-paths-count-paths-from-left-top-to-the-right-bottom-of-a-matrix/">↗️</a>
+
+  **Day 9**
+
+  Arrays ( Solved Problems: 2)
+
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Minimum%20Sum%20Subarray%20Of%20Given%20Size.txt">Minimum Sum Subarray Of Given Size</a>  <a href="https://www.codingninjas.com/studio/problems/find-minimum-sum-subarray-of-given-size_873368?interviewProblemRedirection=true&leftPanelTabValue=PROBLEM">↗️</a>
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Largest%20Sum%20Subarray%20of%20Size%20at%20least%20K.txt">Largest Sum Subarray of Size at least K</a>  <a href="https://www.geeksforgeeks.org/problems/largest-sum-subarray-of-size-at-least-k3121/1">↗️</a>
+  
