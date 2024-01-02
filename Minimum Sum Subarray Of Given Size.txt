@@ -1,0 +1,25 @@
+ int min = Integer.MAX_VALUE;
+
+        int i = 0;
+        int last = -1;
+
+        int sub = k;
+        int sum = 0;
+
+        while(i < arr.size()){
+            if(sub!=0){
+                sum += arr.get(i);
+                sub--;
+                i++;
+            }
+            else{
+                min = Math.min(sum, min);
+                last = i - k;
+                sub = 1;
+                sum = sum - arr.get(last);
+            }
+        }
+
+        min = Math.min(sum, min);
+
+        return min;
