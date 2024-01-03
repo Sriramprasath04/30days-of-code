@@ -1,0 +1,30 @@
+/******************************************************************************
+
+                            Online Java Compiler.
+                Code, Compile, Run and Debug java program online.
+Write your code in this editor and press "Run" button to execute it.
+
+*******************************************************************************/
+
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("The No. of Moves a bihop can make is "+ solve(8,8));
+	    System.out.println("The No. of Dimenshons that a bihop can cover is "+ dimensh());
+	}
+	
+	public static int dimensh(){
+	   int moves = 8; 
+	   for(int i=1; i<=8 ;i++){
+	       moves = moves+solve(i,i);
+	   }
+	   return moves;
+	}
+	
+	public static int solve(int A, int B) {
+        int top_right = Math.min(A-1, 8-B);
+        int bottom_left = Math.min(8-A, B-1);
+ 
+        return top_right+bottom_left;
+    }
+}
