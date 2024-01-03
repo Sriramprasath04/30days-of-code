@@ -1,0 +1,55 @@
+public class Solution{
+    static class Stack {
+
+        int top;
+        int[] arr;
+        int size;
+        Stack(int capacity) {
+            // Write your code here.
+            arr = new int[capacity];
+            size = capacity;
+            top = -1;
+        }
+        public void push(int num) {
+            // Write your code here.
+            if(size-1 !=  top){
+                top++;
+                arr[top] = num;
+            }
+        }
+        public int pop() {
+            // Write your code here.
+            if(top != -1){
+                int temp = arr[top];
+                top--;
+                return temp;
+            } else {
+                return -1;
+            }
+        }
+        public int top() {
+            // Write your code here.
+            if(top>-1){
+                return arr[top];
+            } else {
+                return -1;
+            }
+        }
+        public int isEmpty() {
+            // Write your code here.
+            if(top == -1){
+                return 1;
+            } else {
+                return 0;
+            }
+        }
+        public int isFull() {
+            // Write your code here.
+            if(top == size-1){
+                return 1;
+            } else {
+                return 0;
+            }
+        }
+    }
+}
