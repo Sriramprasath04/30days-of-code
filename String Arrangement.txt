@@ -1,0 +1,34 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+
+        System.out.println(helper("Srijith"));
+    }
+    //65-A   90-Z    97-a   122-z
+    static String helper(String ip){
+        String str = "..........................";
+        char[] ans = str.toCharArray();
+        int n = ip.length();
+        for(int i=0; i<n ;i++){
+            char cha = ip.charAt(i);
+            if((char)65<=cha && cha<=(char)90){
+                if(ans[cha - 65] == '.')
+                {
+                    ans[cha - 65] = (char)cha;
+                }
+            } else if ((char)97<=cha && cha<=(char)122){
+                if(ans[cha - 97] == '.')
+                {
+                    ans[cha - 97] = cha;
+                }
+            }
+        }
+        String res = "";
+        for(int i=0 ; i<26 ;i++){
+            res = res + ans[i];
+        }
+        return res;
+    }
+}
+
