@@ -75,7 +75,8 @@ Arrays ( Solvede Problems: 4)
   Arrays ( Solved Problems: 2)
 
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Minimum%20Sum%20Subarray%20Of%20Given%20Size.txt">Minimum Sum Subarray Of Given Size</a>  <a href="https://www.codingninjas.com/studio/problems/find-minimum-sum-subarray-of-given-size_873368?interviewProblemRedirection=true&leftPanelTabValue=PROBLEM">↗️</a>
-  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Largest%20Sum%20Subarray%20of%20Size%20at%20least%20K.txt">Largest Sum Subarray of Size at least K</a>  <a href="https://www.geeksforgeeks.org/problems/largest-sum-subarray-of-size-at-least-k3121/1">↗️</a>
+  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Largest%20Sum%20Subarray%20of%20Size%20at%20least%20K.txt">Largest Sum Subarray of Size at least K</a>  <a href="https://www.geeksforgeeks.org/problems/largest-sum-subarray-of-size-at-least-k3121/1">↗️</a>
+  3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Find%20element%20occuring%20once%20when%20all%20other%20are%20present%20thrice.txt">Find element occuring once when all other are present thrice</a>  <a href="https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1">↗️</a>
   
 **#Day 10**
 
