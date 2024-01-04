@@ -121,3 +121,6 @@ String ( Solved Problems: )
              No intermediate arrays shall be used.
           ii) Both input and output shall support integers > 0
           iii) The number of digits in input number-'n' can be even or odd <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Number%20Rearrangement%20(%20without%20using%20array%20).txt">↗️</a></p> 
+  3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Reverse%20Words%20in%20a%20String.txt">Reverse Words in a String</a>  <a href="https://takeuforward.org/data-structure/reverse-words-in-a-string/">↗️</a>
+  4) <a href="">Longest Palindrome in a string</a>  <a href="">↗️</a>
+  5) <a href="">Roman Number to Integer and vice versa</a>  <a href="">↗️</a>
