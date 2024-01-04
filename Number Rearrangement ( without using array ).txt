@@ -1,0 +1,38 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        int ip = 123456;
+        System.out.println(ip);
+        System.out.println(helper(ip));
+    }
+    //65-A   90-Z    97-a   122-z
+    static int helper(int ip){
+        int even = 0;
+        int odd = 0;
+        int temp = ip;
+        int k = 0;
+        int sz = 0;
+
+        while(temp>0){
+            int rem = temp%10;
+            if(k%2 == 0){
+                even = (even*10)+rem;
+            } else {
+                odd = (odd*10)+rem;
+                sz++;
+            }
+            temp = temp/10;
+            k++;
+        }
+        int ans = 1;
+        for(int i=0; i<sz ;i++){
+            ans = ans*10;
+        }
+//        System.out.println(ip);
+//        System.out.println(even);
+//        System.out.println(odd);
+         ans = ans*even +odd;
+        return ans;
+    }
+}
