@@ -132,4 +132,4 @@ String ( Solved Problems: 4)
   2) <a href="">Roman Number to Integer and vice versa</a>  <a href="">↗️</a>
   3) <a href = "https://github.com/Sriramprasath04/30days-of-code/blob/main/Largest%20Odd%20Number%20in%20String.txt">Largest Odd Number in String</a>  <a href = "https://leetcode.com/problems/largest-odd-number-in-string/">↗️</a>
   4) <a href = "https://github.com/Sriramprasath04/30days-of-code/blob/main/Good%20String.txt">Good String</a>  <a href = "https://www.geeksforgeeks.org/problems/good-string5712/1?page=3&category=Strings&sortBy=submissions">↗️</a>
-  5) <a href = ""></a>  <a href = "">↗️</a>
+  5) <a href = "https://github.com/Sriramprasath04/30days-of-code/blob/main/Remove%20Consecutive%20Characters.txt">Remove Consecutive Characters</a>  <a href = "https://www.geeksforgeeks.org/problems/consecutive-elements2306/1?page=3&category=Strings&sortBy=submissions">↗️</a>
