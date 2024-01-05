@@ -88,7 +88,7 @@ Arrays ( Solved Problems: 3)
 
 **#Day 11**
 
-String ( Solved Problems: )
+String ( Solved Problems: 4)
 
   1) <p>Write a C or Java program that would convert an input number to output number by re-organizing the digit location. The digits within the input number shall be re- organized as follows:
       a. The input and output are scalar numbers and shall not be implemented as array. No intermediate arrays shall be used.
@@ -123,5 +123,13 @@ String ( Solved Problems: )
           ii) Both input and output shall support integers > 0
           iii) The number of digits in input number-'n' can be even or odd <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Number%20Rearrangement%20(%20without%20using%20array%20).txt">↗️</a></p> 
   3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Reverse%20Words%20in%20a%20String.txt">Reverse Words in a String</a>  <a href="https://takeuforward.org/data-structure/reverse-words-in-a-string/">↗️</a>
-  4) <a href="">Longest Palindrome in a string</a>  <a href="">↗️</a>
-  5) <a href="">Roman Number to Integer and vice versa</a>  <a href="">↗️</a>
+  4) <a href = "https://github.com/Sriramprasath04/30days-of-code/blob/main/Reverse%20a%20String.txt">Reverse a String</a>  <a href = "https://www.geeksforgeeks.org/problems/reverse-a-string/1?page=1&category=Strings&sortBy=submissions">↗️</a>
+
+
+**#Day 12**
+
+  1) <a href="">Longest Palindrome in a string</a>  <a href="">↗️</a>
+  2) <a href="">Roman Number to Integer and vice versa</a>  <a href="">↗️</a>
+  3) <a href = ""></a>  <a href = "">↗️</a>
+  4) <a href = ""></a>  <a href = "">↗️</a>
+  5) <a href = ""></a>  <a href = "">↗️</a>
