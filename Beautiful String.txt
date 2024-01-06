@@ -1,0 +1,43 @@
+import java.util.*;
+
+public class Solution {
+    public static int makeBeautiful(String str) {
+        int n = str.length();
+        String[] ans = generate(n);
+        int diff1 = diff(str,ans[0],n);
+        int diff2 = diff(str,ans[1],n);
+        
+        // System.out.print("count2: "+count2+" "+"count1: "+count);
+        
+        int res = (diff1>diff2)? diff2: diff1;
+        return res;
+    }
+
+    static String[] generate(int n){
+        String str1 = "";
+        String str2 = "";
+        for(int i=0; i<n ;i++){
+            if(i%2==0){
+                str1 = str1+'1';
+                str2 = str2+'0';
+            } else {
+                str1 = str1+'0';
+                str2 = str2+'1';
+            }
+        }
+        String[] ans = new String[2];
+        ans[0] = str1;
+        ans[1] = str2;
+        return ans;
+    }
+
+    static int diff(String str, String cmp, int n){
+        int count = 0;
+        for(int i=0; i<n ;i++){
+            if(str.charAt(i) != cmp.charAt(i)){
+                count++;
+            }   
+        }
+        return count;
+    }
+}
