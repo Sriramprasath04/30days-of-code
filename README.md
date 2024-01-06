@@ -130,13 +130,15 @@ String ( Solved Problems: 4)
 
   String (Solved Problems: )
 
+  1) <a href = "https://github.com/Sriramprasath04/30days-of-code/blob/main/Largest%20Odd%20Number%20in%20String.txt">Largest Odd Number in String</a>  <a href = "https://leetcode.com/problems/largest-odd-number-in-string/">↗️</a>
+  2) <a href = "https://github.com/Sriramprasath04/30days-of-code/blob/main/Good%20String.txt">Good String</a>  <a href = "https://www.geeksforgeeks.org/problems/good-string5712/1?page=3&category=Strings&sortBy=submissions">↗️</a>
+  3) <a href = "https://github.com/Sriramprasath04/30days-of-code/blob/main/Remove%20Consecutive%20Characters.txt">Remove Consecutive Characters</a>  <a href = "https://www.geeksforgeeks.org/problems/consecutive-elements2306/1?page=3&category=Strings&sortBy=submissions">↗️</a>
+  4)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Reverse%20each%20word%20in%20a%20given%20string.txt">Reverse each word in a given string</a> <a herf="https://www.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string1001/1?page=2&category=Strings&difficulty=Medium&sortBy=submissions">↗️</a>
+
+**#Day 13**
+  7)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Beautiful%20String.txt">Beautiful String</a> <a herf="https://youtu.be/P1hgy238oPU?si=b3rv6vxDpm9b7D1K">↗️</a>
   1) <a href="">Longest Palindrome in a string</a>  <a href="">↗️</a>
   2) <a href="">Roman Number to Integer and vice versa</a>  <a href="">↗️</a>
-  3) <a href = "https://github.com/Sriramprasath04/30days-of-code/blob/main/Largest%20Odd%20Number%20in%20String.txt">Largest Odd Number in String</a>  <a href = "https://leetcode.com/problems/largest-odd-number-in-string/">↗️</a>
-  4) <a href = "https://github.com/Sriramprasath04/30days-of-code/blob/main/Good%20String.txt">Good String</a>  <a href = "https://www.geeksforgeeks.org/problems/good-string5712/1?page=3&category=Strings&sortBy=submissions">↗️</a>
-  5) <a href = "https://github.com/Sriramprasath04/30days-of-code/blob/main/Remove%20Consecutive%20Characters.txt">Remove Consecutive Characters</a>  <a href = "https://www.geeksforgeeks.org/problems/consecutive-elements2306/1?page=3&category=Strings&sortBy=submissions">↗️</a>
-  6)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Reverse%20each%20word%20in%20a%20given%20string.txt">Reverse each word in a given string</a> <a herf="https://www.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string1001/1?page=2&category=Strings&difficulty=Medium&sortBy=submissions">↗️</a>
-  7)  <a href=""></a> <a herf="">↗️</a>
   8)  <a href=""></a> <a herf="">↗️</a>
   9)  <a href=""></a> <a herf="">↗️</a>
   10)  <a href=""></a> <a herf="">↗️</a>
