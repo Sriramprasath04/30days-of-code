@@ -136,9 +136,10 @@ String ( Solved Problems: 4)
   4)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Reverse%20each%20word%20in%20a%20given%20string.txt">Reverse each word in a given string</a> <a herf="https://www.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string1001/1?page=2&category=Strings&difficulty=Medium&sortBy=submissions">↗️</a>
 
 **#Day 13**
-  7)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Beautiful%20String.txt">Beautiful String</a> <a herf="https://youtu.be/P1hgy238oPU?si=b3rv6vxDpm9b7D1K">↗️</a>
-  1) <a href="">Longest Palindrome in a string</a>  <a href="">↗️</a>
-  2) <a href="">Roman Number to Integer and vice versa</a>  <a href="">↗️</a>
-  8)  <a href=""></a> <a herf="">↗️</a>
-  9)  <a href=""></a> <a herf="">↗️</a>
-  10)  <a href=""></a> <a herf="">↗️</a>
+  String (Solved Problems: )
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Beautiful%20String.txt">Beautiful String</a> <a herf="https://youtu.be/P1hgy238oPU?si=b3rv6vxDpm9b7D1K">↗️</a>
+  2) <a href="">Longest Palindrome in a string</a>  <a href="">↗️</a>
+  3) <a href="">Roman Number to Integer and vice versa</a>  <a href="">↗️</a>
+  4)  <a href=""></a> <a herf="">↗️</a>
+  5)  <a href=""></a> <a herf="">↗️</a>
+  6)  <a href=""></a> <a herf="">↗️</a>
