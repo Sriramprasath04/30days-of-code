@@ -128,7 +128,7 @@ String ( Solved Problems: 4)
 
 **#Day 12**
 
-  String (Solved Problems: )
+  String (Solved Problems: 4)
 
   1) <a href = "https://github.com/Sriramprasath04/30days-of-code/blob/main/Largest%20Odd%20Number%20in%20String.txt">Largest Odd Number in String</a>  <a href = "https://leetcode.com/problems/largest-odd-number-in-string/">↗️</a>
   2) <a href = "https://github.com/Sriramprasath04/30days-of-code/blob/main/Good%20String.txt">Good String</a>  <a href = "https://www.geeksforgeeks.org/problems/good-string5712/1?page=3&category=Strings&sortBy=submissions">↗️</a>
@@ -136,10 +136,16 @@ String ( Solved Problems: 4)
   4)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Reverse%20each%20word%20in%20a%20given%20string.txt">Reverse each word in a given string</a> <a herf="https://www.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string1001/1?page=2&category=Strings&difficulty=Medium&sortBy=submissions">↗️</a>
 
 **#Day 13**
-  String (Solved Problems: )
+  String (Solved Problems: 3)
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Beautiful%20String.txt">Beautiful String</a> <a herf="https://youtu.be/P1hgy238oPU?si=b3rv6vxDpm9b7D1K">↗️</a>
   2) <a href="">Longest Palindrome in a string</a>  <a href="">↗️</a>
   3) <a href="">Roman Number to Integer and vice versa</a>  <a href="">↗️</a>
-  4)  <a href=""></a> <a herf="">↗️</a>
-  5)  <a href=""></a> <a herf="">↗️</a>
-  6)  <a href=""></a> <a herf="">↗️</a>
+
+**#Day 14**
+
+  String (Problems Solved: 1)
+  1)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Is%20SubSequence.txt"> Is SubSequence</a>  <a herf="https://youtu.be/bgWX-auJpI0?si=pYPsnQH2kWvEGgba">↗️</a>
+  2)  <a href=""></a> <a herf="">↗️</a>
+  3)  <a href=""></a> <a herf="">↗️</a>
+  3)  <a href=""></a> <a herf="">↗️</a>
+  3)  <a href=""></a> <a herf="">↗️</a>
