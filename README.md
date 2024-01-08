@@ -152,5 +152,6 @@ String ( Solved Problems: 4)
   
   1)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Reverse%20a%20linked%20list.txt">Reverse a linked list</a> <a herf="https://www.codingninjas.com/studio/problems/799897?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">↗️</a>
   2)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Merge%202%20sorted%20linked%20list%20in%20reverse%20order.txt">Merge 2 sorted linked list in reverse order</a> <a herf="https://www.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1">↗️</a>
-  3)  <a href=""></a> <a herf="">↗️</a>
-  3)  <a href=""></a> <a herf="">↗️</a>
+  3)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Delete%20Kth%20Node%20From%20End.txt"> Delete Kth Node From End</a> <a herf="https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/">↗️</a>
+  4)  <a href=""></a> <a herf="">↗️</a>
+  5)  <a href=""></a> <a herf="">↗️</a>
