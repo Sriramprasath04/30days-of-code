@@ -148,12 +148,12 @@ String ( Solved Problems: 4)
   
 **#Day 15**
 
-  Linked List (Problems Solved: 2)
+  Linked List (Problems Solved: 5)
   
-  1)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Reverse%20a%20linked%20list.txt">Reverse a linked list</a> <a herf="https://www.codingninjas.com/studio/problems/799897?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">↗️</a>
+  1)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Reverse%20a%20linked%20list.txt">Reverse a linked list</a> <a href="https://www.codingninjas.com/studio/problems/799897?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">↗️</a>
   2)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Merge%202%20sorted%20linked%20list%20in%20reverse%20order.txt">Merge 2 sorted linked list in reverse order</a> <a href="https://www.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1">↗️</a>
   3)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Delete%20Kth%20Node%20From%20End.txt"> Delete Kth Node From End</a> <a href="https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/">↗️</a>
   4)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Middle%20Of%20Linked%20List.txt">Middle Of Linked List</a> <a href="https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/">↗️</a>
-  5)  <a href=""></a> <a href="">↗️</a>
-  5)  <a href=""></a> <a href="">↗️</a>
-  5)  <a href=""></a> <a href="">↗️</a>
+  5)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Longest%20Common%20Prefix.txt">Longest Common Prefix</a> <a href="https://youtu.be/wtOQaovlvhY?si=f15GOXBZT98O_K3j">↗️</a>
+  6)  <a href=""></a> <a href="">↗️</a>
+  7)  <a href=""></a> <a href="">↗️</a>
