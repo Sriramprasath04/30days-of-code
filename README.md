@@ -138,7 +138,7 @@ String ( Solved Problems: 4)
 **#Day 13**
   String (Solved Problems: 3)
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Beautiful%20String.txt">Beautiful String</a> <a href="https://youtu.be/P1hgy238oPU?si=b3rv6vxDpm9b7D1K">↗️</a>
-  2) <a href="">Longest Palindrome in a string</a>  <a href="">↗️</a>
+  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Longest%20Palindromic%20Substring.txt">Longest Palindromic Substring</a>  <a href="https://youtu.be/uX0-xyPkR2w?si=4UB5aNif5ex7QjL3">↗️</a>
   3) <a href="">Roman Number to Integer and vice versa</a>  <a href="">↗️</a>
 
 **#Day 14**
