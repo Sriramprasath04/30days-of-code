@@ -155,5 +155,5 @@ String ( Solved Problems: 4)
   3)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Delete%20Kth%20Node%20From%20End.txt"> Delete Kth Node From End</a> <a href="https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/">↗️</a>
   4)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Middle%20Of%20Linked%20List.txt">Middle Of Linked List</a> <a href="https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/">↗️</a>
   5)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Longest%20Common%20Prefix.txt">Longest Common Prefix</a> <a href="https://youtu.be/wtOQaovlvhY?si=f15GOXBZT98O_K3j">↗️</a>
-  6)  <a href=""></a> <a href="">↗️</a>
+  6)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Merge%20two%20sorted%20linked%20lists.txt">Merge two sorted linked lists</a> <a href="https://takeuforward.org/data-structure/merge-two-sorted-linked-lists/">↗️</a>
   7)  <a href=""></a> <a href="">↗️</a>
