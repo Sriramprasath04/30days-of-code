@@ -150,17 +150,24 @@ String ( Solved Problems: 4)
 
   Linked List (Problems Solved: 6)
   
-  1)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Reverse%20a%20linked%20list.txt">Reverse a linked list</a> <a href="https://www.codingninjas.com/studio/problems/799897?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">↗️</a>
-  2)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Merge%202%20sorted%20linked%20list%20in%20reverse%20order.txt">Merge 2 sorted linked list in reverse order</a> <a href="https://www.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1">↗️</a>
-  3)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Delete%20Kth%20Node%20From%20End.txt"> Delete Kth Node From End</a> <a href="https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/">↗️</a>
-  4)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Middle%20Of%20Linked%20List.txt">Middle Of Linked List</a> <a href="https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/">↗️</a>
-  5)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Longest%20Common%20Prefix.txt">Longest Common Prefix</a> <a href="https://youtu.be/wtOQaovlvhY?si=f15GOXBZT98O_K3j">↗️</a>
-  6)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Merge%20two%20sorted%20linked%20lists.txt">Merge two sorted linked lists</a> <a href="https://takeuforward.org/data-structure/merge-two-sorted-linked-lists/">↗️</a>
+  1)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Reverse%20a%20linked%20list.txt">Reverse a linked list</a>  <a href="https://www.codingninjas.com/studio/problems/799897?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website">↗️</a>
+  2)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Merge%202%20sorted%20linked%20list%20in%20reverse%20order.txt">Merge 2 sorted linked list in reverse order</a>  <a href="https://www.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1">↗️</a>
+  3)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Delete%20Kth%20Node%20From%20End.txt"> Delete Kth Node From End</a>  <a href="https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/">↗️</a>
+  4)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Middle%20Of%20Linked%20List.txt">Middle Of Linked List</a>  <a href="https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/">↗️</a>
+  5)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Longest%20Common%20Prefix.txt">Longest Common Prefix</a>  <a href="https://youtu.be/wtOQaovlvhY?si=f15GOXBZT98O_K3j">↗️</a>
+  6)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Merge%20two%20sorted%20linked%20lists.txt">Merge two sorted linked lists</a>  <a href="https://takeuforward.org/data-structure/merge-two-sorted-linked-lists/">↗️</a>
   
 **#Day 15**
 
-  Linked List (Problems Solved: 1) 
+  Linked List (Problems Solved: 23) 
   
-  1)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Intersection%20of%20Two%20Linked%20Lists.txt">Intersection of Two Linked Lists</a> <a href="https://youtu.be/0JHQ26NQcPk?si=-9EFk6ik4ub7LhQJ">↗️</a>
-  1)  <a href=""></a> <a href="">↗️</a>
-  1)  <a href=""></a> <a href="">↗️</a>
+  1)  <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Intersection%20of%20Two%20Linked%20Lists.txt">Intersection of Two Linked Lists</a>  <a href="https://youtu.be/0JHQ26NQcPk?si=-9EFk6ik4ub7LhQJ">↗️</a>
+  2)  <a href="">Completed Basics of SLL</a>  <a href="https://takeuforward.org/linked-list/top-linkedlist-interview-questions-structured-path-with-video-solutions/">↗️</a>
+  1)  <a href="">Completed Basics of DLL</a>  <a href="https://takeuforward.org/linked-list/top-linkedlist-interview-questions-structured-path-with-video-solutions/">↗️</a>
+
+**#Day 16**
+
+  Linked List (Problems Solved: 1) 
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Add%20two%20numbers%20represented%20by%20linked%20lists.txt">Add two numbers represented by linked lists</a>  <a href="https://youtu.be/qE9KOe3Fu7Q?si=FLK6dLe4Z_aAQvr6">↗️</a> 
+  1) <a href=""></a> <a href="">↗️</a> 
+  1) <a href=""></a> <a href="">↗️</a> 
