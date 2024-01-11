@@ -177,15 +177,15 @@ String ( Solved Problems: 4)
   Recursion + Linked List ( Problems Solved: )
   
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Segregate%20Even%20And%20Odd%20Nodes%20In%20a%20Linked%20List.txt">Segregate Even And Odd Nodes In a Linked List</a> <a href="https://www.codingninjas.com/studio/problems/segregate-even-and-odd-nodes-in-a-linked-list_1116100?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf">↗️</a> 
-  1) <a href="">Print name N times using recursion</a> <a href="https://takeuforward.org/recursion/print-name-n-times-using-recursion/">↗️</a> 
-  2) <a href="">Print 1 to N using recursion</a> <a href="">↗️</a> 
-  3) <a href="">Print N to 1 using recursion</a> <a href="">↗️</a> 
-  3) <a href="">Sum of first N numbers</a> <a href="">↗️</a> 
-  3) <a href="">Factorial of N numbers</a> <a href="">↗️</a> 
-  3) <a href="">Reverse an array</a> <a href="">↗️</a> 
-  3) <a href="">Check if a string is palindrome or not</a> <a href="">↗️</a> 
-  3) <a href="">Fibonacci Number</a> <a href="">↗️</a> 
-  3) <a href="">Fibonacci Series</a> <a href="">↗️</a> 
-  3) <a href=""></a> <a href="">↗️</a> 
-  2) <a href=""></a> <a href="">↗️</a> 
-  3) <a href=""></a> <a href="">↗️</a> 
+  2) <a href="">Print name N times using recursion</a> <a href="https://takeuforward.org/recursion/print-name-n-times-using-recursion/">↗️</a> 
+  3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Print%201%20to%20N.txt">Print 1 to N using recursion</a> <a href="">↗️</a> 
+  4) <a href="">Print N to 1 using recursion</a> <a href="">↗️</a> 
+  5) <a href="">Sum of first N numbers</a> <a href="">↗️</a> 
+  6) <a href="">Factorial of N numbers</a> <a href="">↗️</a> 
+  7) <a href="">Reverse an array</a> <a href="">↗️</a> 
+  8) <a href="">Check if a string is palindrome or not</a> <a href="">↗️</a> 
+  9) <a href="">Fibonacci Number</a> <a href="">↗️</a> 
+  10) <a href="">Fibonacci Series</a> <a href="">↗️</a> 
+  11) <a href=""></a> <a href="">↗️</a> 
+  12) <a href=""></a> <a href="">↗️</a> 
+  13) <a href=""></a> <a href="">↗️</a> 
