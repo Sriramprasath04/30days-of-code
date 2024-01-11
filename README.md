@@ -167,12 +167,25 @@ String ( Solved Problems: 4)
 **#Day 17**
 
   Linked List (Problems Solved: 13) 
+  
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Add%20two%20numbers%20represented%20by%20linked%20lists.txt">Add two numbers represented by linked lists</a>  <a href="https://youtu.be/qE9KOe3Fu7Q?si=FLK6dLe4Z_aAQvr6">↗️</a> 
-  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Segregate%20Even%20And%20Odd%20Nodes%20In%20a%20Linked%20List.txt">Segregate Even And Odd Nodes In a Linked List</a> <a href="https://www.codingninjas.com/studio/problems/segregate-even-and-odd-nodes-in-a-linked-list_1116100?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf">↗️</a> 
+  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sum%20Of%20Two%20Arrays.txt">Sum Of Two Arrays</a> <a href="https://youtu.be/qE9KOe3Fu7Q?si=FLK6dLe4Z_aAQvr6">↗️</a> 
   3)  <a href="">Completed Basics of DLL</a>  <a href="https://takeuforward.org/linked-list/top-linkedlist-interview-questions-structured-path-with-video-solutions/">↗️</a>
 
-**#Day 17**
+**#Day 18**
 
-  1) <a href=""></a> <a href="">↗️</a> 
+  Recursion + Linked List ( Problems Solved: )
+  
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Segregate%20Even%20And%20Odd%20Nodes%20In%20a%20Linked%20List.txt">Segregate Even And Odd Nodes In a Linked List</a> <a href="https://www.codingninjas.com/studio/problems/segregate-even-and-odd-nodes-in-a-linked-list_1116100?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf">↗️</a> 
+  1) <a href="">Print name N times using recursion</a> <a href="https://takeuforward.org/recursion/print-name-n-times-using-recursion/">↗️</a> 
+  2) <a href="">Print 1 to N using recursion</a> <a href="">↗️</a> 
+  3) <a href="">Print N to 1 using recursion</a> <a href="">↗️</a> 
+  3) <a href="">Sum of first N numbers</a> <a href="">↗️</a> 
+  3) <a href="">Factorial of N numbers</a> <a href="">↗️</a> 
+  3) <a href="">Reverse an array</a> <a href="">↗️</a> 
+  3) <a href="">Check if a string is palindrome or not</a> <a href="">↗️</a> 
+  3) <a href="">Fibonacci Number</a> <a href="">↗️</a> 
+  3) <a href="">Fibonacci Series</a> <a href="">↗️</a> 
+  3) <a href=""></a> <a href="">↗️</a> 
   2) <a href=""></a> <a href="">↗️</a> 
   3) <a href=""></a> <a href="">↗️</a> 
