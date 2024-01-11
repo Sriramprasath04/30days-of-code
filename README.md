@@ -180,10 +180,10 @@ String ( Solved Problems: 4)
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Print%20a%20Name%20N%20times.txt">Print name N times using recursion</a> <a href="https://takeuforward.org/recursion/print-name-n-times-using-recursion/">↗️</a> 
   3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Print%201%20to%20N.txt">Print 1 to N using recursion</a> <a href="https://takeuforward.org/recursion/print-1-to-n-using-recursion/">↗️</a> 
   4) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Print%20N%20to%201.txt">Print N to 1 using recursion</a> <a href="https://takeuforward.org/recursion/print-n-to-1-using-recursion/">↗️</a> 
-  5) <a href="">Sum of first N numbers</a> <a href="https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/">↗️</a> 
-  6) <a href="">Factorial of N numbers</a> <a href="https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive/">↗️</a> 
-  7) <a href="">Reverse an array</a> <a href="https://takeuforward.org/data-structure/reverse-a-given-array/">↗️</a> 
-  8) <a href="">Check if a string is palindrome or not</a> <a href="https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/">↗️</a> 
+  5) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Sum%20Of%20First%20N%20Numbers.txt">Sum of first N numbers</a> <a href="https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/">↗️</a> 
+  6) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Factorial%20of%20a%20numbers.txt">Factorial of a numbers</a> <a href="https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive/">↗️</a> 
+  7) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Reverse%20an%20array.txt">Reverse an array</a> <a href="https://takeuforward.org/data-structure/reverse-a-given-array/">↗️</a> 
+  8) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Check%20if%20the%20given%20String%20is%20Palindrome%20or%20not.txt">Check if a string is palindrome or not</a> <a href="https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/">↗️</a> 
   9) <a href="">Fibonacci Number</a> <a href="https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/">↗️</a> 
   10) <a href="">Fibonacci Series</a> <a href="https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/">↗️</a> 
   11) <a href=""></a> <a href="">↗️</a> 
