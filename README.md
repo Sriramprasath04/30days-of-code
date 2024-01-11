@@ -179,7 +179,7 @@ String ( Solved Problems: 4)
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Segregate%20Even%20And%20Odd%20Nodes%20In%20a%20Linked%20List.txt">Segregate Even And Odd Nodes In a Linked List</a> <a href="https://www.codingninjas.com/studio/problems/segregate-even-and-odd-nodes-in-a-linked-list_1116100?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf">↗️</a> 
   2) <a href="">Print name N times using recursion</a> <a href="https://takeuforward.org/recursion/print-name-n-times-using-recursion/">↗️</a> 
   3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Print%201%20to%20N.txt">Print 1 to N using recursion</a> <a href="">↗️</a> 
-  4) <a href="">Print N to 1 using recursion</a> <a href="">↗️</a> 
+  4) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Print%20N%20to%201.txt">Print N to 1 using recursion</a> <a href="">↗️</a> 
   5) <a href="">Sum of first N numbers</a> <a href="">↗️</a> 
   6) <a href="">Factorial of N numbers</a> <a href="">↗️</a> 
   7) <a href="">Reverse an array</a> <a href="">↗️</a> 
