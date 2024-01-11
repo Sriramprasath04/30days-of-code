@@ -1,0 +1,22 @@
+public class Solution {
+    public static boolean isPalindrome(String str) {
+        // Write your code here.
+        int f = 0;
+        int l = str.length()-1;
+        return check(str, f, l);
+    }
+
+    public static boolean check(String str, int first, int last){
+        if(first>=last){
+            return true;
+        } else {
+            if(str.charAt(first)!=str.charAt(last)){
+                return false;
+            } 
+
+            first++;
+            last--;
+            return check(str, first, last);
+        }
+    }
+}
