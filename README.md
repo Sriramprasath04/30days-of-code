@@ -174,7 +174,7 @@ String ( Solved Problems: 4)
 
 **#Day 18**
 
-  Recursion + Linked List ( Problems Solved: )
+  Recursion + Linked List ( Problems Solved: 10)
   
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Segregate%20Even%20And%20Odd%20Nodes%20In%20a%20Linked%20List.txt">Segregate Even And Odd Nodes In a Linked List</a> <a href="https://www.codingninjas.com/studio/problems/segregate-even-and-odd-nodes-in-a-linked-list_1116100?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf">↗️</a> 
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Print%20a%20Name%20N%20times.txt">Print name N times using recursion</a> <a href="https://takeuforward.org/recursion/print-name-n-times-using-recursion/">↗️</a> 
@@ -184,8 +184,15 @@ String ( Solved Problems: 4)
   6) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Factorial%20of%20a%20numbers.txt">Factorial of a numbers</a> <a href="https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive/">↗️</a> 
   7) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Reverse%20an%20array.txt">Reverse an array</a> <a href="https://takeuforward.org/data-structure/reverse-a-given-array/">↗️</a> 
   8) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Check%20if%20the%20given%20String%20is%20Palindrome%20or%20not.txt">Check if a string is palindrome or not</a> <a href="https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/">↗️</a> 
-  9) <a href="">Fibonacci Number</a> <a href="https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/">↗️</a> 
-  10) <a href="">Fibonacci Series</a> <a href="https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/">↗️</a> 
-  11) <a href=""></a> <a href="">↗️</a> 
-  12) <a href=""></a> <a href="">↗️</a> 
-  13) <a href=""></a> <a href="">↗️</a> 
+  9) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Fibonacci%20Number.txt">Fibonacci Number</a> <a href="https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/">↗️</a> 
+  10) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Fibonacci%20Series.txt">Fibonacci Series</a> <a href="https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/">↗️</a>
+
+**#Day 18**
+
+  Recursion ( Problems Solved: )
+      
+  1) <a href=""></a> <a href="">↗️</a> 
+  2) <a href=""></a> <a href="">↗️</a> 
+  3) <a href=""></a> <a href="">↗️</a> 
+  4) <a href=""></a> <a href="">↗️</a> 
+  5) <a href=""></a> <a href="">↗️</a> 
