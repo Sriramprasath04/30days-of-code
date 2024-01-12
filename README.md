@@ -191,7 +191,7 @@ String ( Solved Problems: 4)
 
   Recursion ( Problems Solved: )
       
-  1) <a href=""></a> <a href="">↗️</a> 
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.txt">Number of Steps to Reduce a Number to Zero</a> <a href="https://youtu.be/JxILxTwHukM?si=UWsUbX2cS8kftNhB">↗️</a> 
   2) <a href=""></a> <a href="">↗️</a> 
   3) <a href=""></a> <a href="">↗️</a> 
   4) <a href=""></a> <a href="">↗️</a> 
