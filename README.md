@@ -187,12 +187,17 @@ String ( Solved Problems: 4)
   9) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Fibonacci%20Number.txt">Fibonacci Number</a> <a href="https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/">↗️</a> 
   10) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Fibonacci%20Series.txt">Fibonacci Series</a> <a href="https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/">↗️</a>
 
-**#Day 18**
+**#Day 19**
 
-  Recursion ( Problems Solved: )
+  Recursion ( Problems Solved: 3)
       
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.txt">Number of Steps to Reduce a Number to Zero</a> <a href="https://youtu.be/JxILxTwHukM?si=UWsUbX2cS8kftNhB">↗️</a> 
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Check%20if%20array%20is%20sorted.txt">Check if array is sorted</a> <a href="https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive/">↗️</a> 
   3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Linear%20Search.txt">Linear Search</a> <a href="https://youtu.be/sTdiMLom00U?si=wqxScEy0LdW6UPph">↗️</a> 
-  4) <a href=""></a> <a href="">↗️</a> 
-  5) <a href=""></a> <a href="">↗️</a> 
+  
+  **#Day 20**
+
+  Sorting ( Problems Solved: )
+  
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sorting/Insertion%20Sort.txt">Insertion Sort</a> <a href="https://youtu.be/By_5-RRqVeE?si=2yjuubjClIo1j-V-">↗️</a> 
+  2) <a href="">Insertion Sort for Singly Linked List</a> <a href="https://www.geeksforgeeks.org/problems/insertion-sort-for-singly-linked-list/1">↗️</a> 
