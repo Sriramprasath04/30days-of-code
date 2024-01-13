@@ -197,7 +197,9 @@ String ( Solved Problems: 4)
   
   **#Day 20**
 
-  Sorting ( Problems Solved: 2)
+  Sorting + Recursion ( Problems Solved: 2)
   
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sorting/Insertion%20Sort.txt">Insertion Sort</a> <a href="https://youtu.be/By_5-RRqVeE?si=2yjuubjClIo1j-V-">↗️</a> 
-  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sorting/Insertion%20Sort%20for%20Singly%20Linked%20List.txt">Insertion Sort for Singly Linked List</a> <a href="https://youtu.be/Kk6mXAzqX3Y?si=_8N6zkLZN6R-4w6S">↗️</a> 
+  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sorting/Insertion%20Sort%20for%20Singly%20Linked%20List.txt">Insertion Sort for Singly Linked List</a> <a href="https://youtu.be/Kk6mXAzqX3Y?si=_8N6zkLZN6R-4w6S">↗️</a>
+  3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Binary%20Search%20with%20Recursion.txt">Binary Search with Recursion</a>  <a href="https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/10-recursion.md">↗️</a>
+  4) <a href=""></a>  <a href="">↗️</a>
