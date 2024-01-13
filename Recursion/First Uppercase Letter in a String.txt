@@ -1,0 +1,24 @@
+import java.util.*;
+
+public class Main {
+    
+    //First Uppercase Letter in a String
+    public static void main(String[] args) {
+
+        String ip = "tis is the exampLe";
+        char ans = findCaps(ip, 0);
+        System.out.println(ans);
+    }
+    //65-A   90-Z    97-a   122-z
+
+    static char findCaps(String str, int index){
+        if(index == str.length()){
+            return '-';
+        }
+        char letter = str.charAt(index);
+        if(65<=(int)letter && (int)letter<=90){
+            return letter;
+        }
+        return findCaps(str, index+1);
+    }
+}
