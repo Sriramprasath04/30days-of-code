@@ -210,6 +210,6 @@ Recursion + Sorting + Matrix ( Problems Solved: 1)
 
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Find%20duplicate%20rows%20in%20a%20binary%20matrixl.txt">Find duplicate rows in a binary matrix</a>  <a href="https://youtu.be/xQv8npCt8eQ?si=dwVCHrWJAL8dVxtL">↗️</a>
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sorting/Bubble%20Sort.txt">Bubble Sort </a>  <a href="https://youtu.be/F5MZyqRp_IM?si=yTHTd5p6zmyw76cd">↗️</a>
-  3) <a href=""></a>  <a href="">↗️</a>
+  3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sorting/Selection%20Sort.txt">Selection Sort</a>  <a href="https://youtu.be/Nd4SCCIHFWk?si=jM54NFjovvvr5XTa">↗️</a>
   4) <a href=""></a>  <a href="">↗️</a>
   5) <a href=""></a>  <a href="">↗️</a>
