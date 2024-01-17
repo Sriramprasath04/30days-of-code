@@ -217,5 +217,12 @@ Recursion + Sorting + Matrix ( Problems Solved: 1)
     
 **#Day 22**
 
+  Bit Manipulation ( Problems Solved: 3)
+
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Bit%20Manipulation/Bit%20Manipulation.txt">Bit Manipulation</a>  <a href="https://youtu.be/OSoO8eCEEC8?si=wpvEPc_S7oyKewhi">↗️</a>
+  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Bit%20Manipulation/Check%20whether%20K-th%20bit%20is%20set%20or%20not.txt">Check whether K-th bit is set or not</a>  <a href="https://youtu.be/OSoO8eCEEC8?si=wpvEPc_S7oyKewhi">↗️</a>
+  3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Bit%20Manipulation/Odd%20Even.txt">Odd or Even</a>  <a href="https://youtu.be/7LAxwLBgfuo?si=WZHiE14QUfwGVG9I">↗️</a>
+  4) <a href=""></a>  <a href="">↗️</a>
+  5) <a href=""></a>  <a href="">↗️</a>
   
 **#Day 23**
