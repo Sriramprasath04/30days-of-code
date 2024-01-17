@@ -1,0 +1,20 @@
+import java.util.* ;
+import java.io.*; 
+import java.util.ArrayList;
+
+class Solution {
+     public static void rec(int indx,String s ,ArrayList<String> ans,String t){
+      if(indx == s.length()){
+        if(t != "") ans.add(t);
+        return;
+      }
+      rec(indx+1, s, ans, t+s.charAt(indx));
+      rec(indx+1, s, ans, t);
+    }
+    public static ArrayList<String> subsequences(String str) {
+        // Write your code here
+        ArrayList<String> ans=new ArrayList<>();
+        rec(0,str,ans,"");
+        return ans;
+    }
+}
