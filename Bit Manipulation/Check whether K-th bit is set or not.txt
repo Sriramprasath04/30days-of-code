@@ -1,0 +1,12 @@
+public class Solution {
+    static boolean isKthBitSet(int n, int k) {
+        // Write your code here.
+        int mask = 1<<(k-1);
+        // System.out.println(mask+" "+n+" "+(mask&n));
+        if((mask&n) != 0){
+            return true;
+        } else {
+            return false;
+        }
+    }
+}
