@@ -1,0 +1,30 @@
+// Count Subsets with Sum K
+
+import java.util.*;
+import java.io.*;
+
+public class Solution {
+    public static int findWays(int num[], int tar) {
+        // Write your code here.
+        int res = count(num, tar, 0, 0);
+        return res;
+    }
+
+    static int count(int[] num, int tar, int sum, int indx){
+        if(sum>tar)   return 0;
+
+
+        if(indx>=num.length){
+            if(sum == tar) return 1;
+            else return 0;
+        }
+
+        sum = sum+num[indx];
+        int l = count(num, tar, sum, indx+1);
+        
+        sum = sum-num[indx];
+        int r = count(num, tar, sum, indx+1);
+        
+        return r+l;
+    }
+}
