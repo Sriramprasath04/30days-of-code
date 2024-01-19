@@ -233,9 +233,9 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
 
 **#Day 24**
 
-  Recursion ( Problems Solved: )
+  Recursion ( Problems Solved: 1)
 
-  1) <a href=""></a>  <a href="">↗️</a>
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Subset%20Sums.txt">Subset Sums</a>  <a href="https://youtu.be/rYkfBRtMJr8?si=1IAXsmjpaVGOIuBw">↗️</a>
   2) <a href=""></a>  <a href="">↗️</a>
   3) <a href=""></a>  <a href="">↗️</a>
   4) <a href=""></a>  <a href="">↗️</a>
