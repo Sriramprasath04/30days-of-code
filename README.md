@@ -206,13 +206,12 @@ String ( Solved Problems: 4)
   
 **#Day 21**
 
-Recursion + Sorting + Matrix ( Problems Solved: 1)
+Recursion + Sorting + Matrix ( Problems Solved: 5)
 
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Find%20duplicate%20rows%20in%20a%20binary%20matrixl.txt">Find duplicate rows in a binary matrix</a>  <a href="https://youtu.be/xQv8npCt8eQ?si=dwVCHrWJAL8dVxtL">↗️</a>
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sorting/Bubble%20Sort.txt">Bubble Sort </a>  <a href="https://youtu.be/F5MZyqRp_IM?si=yTHTd5p6zmyw76cd">↗️</a>
   3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sorting/Selection%20Sort.txt">Selection Sort</a>  <a href="https://youtu.be/Nd4SCCIHFWk?si=jM54NFjovvvr5XTa">↗️</a>
   4) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Pattern%201.txt">Pattern-1,2,3</a>  <a href="https://youtu.be/ymgnIIclCF0?si=ksVdJRCsjRxgSUXt">↗️</a>
-  5) <a href=""></a>  <a href="">↗️</a>
 
     
 **#Day 22**
@@ -226,8 +225,18 @@ Recursion + Sorting + Matrix ( Problems Solved: 1)
   
 **#Day 23**
 
-  Recursion ( Problems Solved: 2)
+  Recursion ( Problems Solved: 3)
   
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Count%20Subsets%20with%20Sum%20K.txt">Count Subsets with Sum K</a>  <a href="https://youtu.be/eQCS_v3bw0Q?si=S9Yzr9zFuTMHPQKt">↗️</a>
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Combination%20Sum.txt">Combination Sum</a>  <a href="https://youtu.be/OyZFFqQtu98?si=R4yAMPsj1M9dOt9G">↗️</a>
+  3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Combination%20Sum%20II.txt">Combination Sum II</a>  <a href="https://youtu.be/G1fRTGRxXU8?si=jGKWkRc5lEiP9k2C">↗️</a>
+
+**#Day 24**
+
+  Recursion ( Problems Solved: )
+
+  1) <a href=""></a>  <a href="">↗️</a>
+  2) <a href=""></a>  <a href="">↗️</a>
   3) <a href=""></a>  <a href="">↗️</a>
+  4) <a href=""></a>  <a href="">↗️</a>
+  5) <a href=""></a>  <a href="">↗️</a>
