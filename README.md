@@ -241,13 +241,13 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
   
 **#Day 24**
   
-  Matrix ( Problems Solved: 5)
+  Matrix ( Problems Solved: 6)
   
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Sum%20of%20upper%20and%20lower%20triangles.txt">Sum of upper and lower triangles</a>  <a href="https://youtu.be/YuqtMC6Nvg8?si=dZNxTXAGvUIGXSqt">↗️</a>
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Print%20Matrix%20in%20snake%20Pattern.txt">Print Matrix in snake Pattern</a>  <a href="https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1">↗️</a>
   3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Understanding%20Matrix.txt">Understanding Matrix</a>  <a href="https://youtu.be/TfE2c7SXaUo?si=Gt7fyHJvASl_AyK8">↗️</a>
   4) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Transpose%20of%20Matrix.txt">Transpose of Matrix</a>  <a href="https://youtu.be/n3-XWx-Inns?si=bE4eKiSzt1FtSo9p">↗️</a>
   5) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Rotate%20by%2090%20degree.txt">Rotate by 90 degree</a>  <a href="https://youtu.be/Z0R2u6gd3GU?si=XN69daevE24ByUvJ">↗️</a>
-  6) <a href=""></a>  <a href="">↗️</a>
+  6) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Spirally%20traversing%20a%20matrix.txt">Spirally traversing a matrix</a>  <a href="https://youtu.be/3Zv-s9UUrFM?si=U7yNFpCPg37yZsPz">↗️</a>
   7) <a href=""></a>  <a href="">↗️</a>
   8) <a href=""></a>  <a href="">↗️</a>
