@@ -239,7 +239,7 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Subsets%20II.txt">Subsets II</a>  <a href="https://youtu.be/RIn3gOkbhQE?si=xZ6drRPslxkjDcMb">↗️</a>
   3) <a href="">Power Set</a>  <a href="">↗️</a>
   
-**#Day 24**
+**#Day 25**
   
   Matrix ( Problems Solved: 7)
   
