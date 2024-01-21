@@ -238,5 +238,10 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Subset%20Sums.txt">Subset Sums</a>  <a href="https://youtu.be/rYkfBRtMJr8?si=1IAXsmjpaVGOIuBw">↗️</a>
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Recursion/Subsets%20II.txt">Subsets II</a>  <a href="https://youtu.be/RIn3gOkbhQE?si=xZ6drRPslxkjDcMb">↗️</a>
   3) <a href="">Power Set</a>  <a href="">↗️</a>
-  4) <a href=""></a>  <a href="">↗️</a>
-  5) <a href=""></a>  <a href="">↗️</a>
+  
+**#Day 24**
+  
+  Matrix ( Problems Solved: 1)
+  
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Sum%20of%20upper%20and%20lower%20triangles.txt">Sum of upper and lower triangles</a>  <a href="https://youtu.be/YuqtMC6Nvg8?si=dZNxTXAGvUIGXSqt">↗️</a>
+  2) <a href=""></a>  <a href="">↗️</a>
