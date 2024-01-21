@@ -241,10 +241,11 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
   
 **#Day 24**
   
-  Matrix ( Problems Solved: 1)
+  Matrix ( Problems Solved: 4)
   
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Sum%20of%20upper%20and%20lower%20triangles.txt">Sum of upper and lower triangles</a>  <a href="https://youtu.be/YuqtMC6Nvg8?si=dZNxTXAGvUIGXSqt">↗️</a>
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Print%20Matrix%20in%20snake%20Pattern.txt">Print Matrix in snake Pattern</a>  <a href="https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1">↗️</a>
   3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Understanding%20Matrix.txt">Understanding Matrix</a>  <a href="https://youtu.be/TfE2c7SXaUo?si=Gt7fyHJvASl_AyK8">↗️</a>
-  4) <a href=""></a>  <a href="">↗️</a>
+  4) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Transpose%20of%20Matrix.txt">Transpose of Matrix</a>  <a href="https://youtu.be/n3-XWx-Inns?si=bE4eKiSzt1FtSo9p">↗️</a>
+  5) <a href=""></a>  <a href="">↗️</a>
   5) <a href=""></a>  <a href="">↗️</a>
