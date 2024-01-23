@@ -255,7 +255,7 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
   **#Day 26**
 
   
-  1) <a href=""></a>  <a href="">↗️</a>
+  1) <a href="">Quick Sort</a>  <a href="https://youtu.be/WIrA4YexLRQ?si=hryw_nlbsGFAPYzf">↗️</a>
   2) <a href=""></a>  <a href="">↗️</a>
   3) <a href=""></a>  <a href="">↗️</a>
   
