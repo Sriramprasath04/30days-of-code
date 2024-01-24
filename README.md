@@ -256,7 +256,7 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
 
   
   1) <a href="">Quick Sort</a>  <a href="https://youtu.be/WIrA4YexLRQ?si=hryw_nlbsGFAPYzf">↗️</a>
-  2) <a href=""></a>  <a href="">↗️</a>
+  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Reverse%20Diagonals.txt">Reverse Diagonals</a>  <a href="">[Interview Question]↗️</a>
   3) <a href=""></a>  <a href="">↗️</a>
   
   **#Day 26**
