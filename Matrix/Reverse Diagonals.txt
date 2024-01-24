@@ -1,0 +1,27 @@
+public class Matrix_ut_t {
+    public static void main(String[] args) {
+        int n = 3;
+        int[][] matrix = {{1,2,3},{4,5,6},{7,8,9}};
+        print(matrix, 3);
+        reverseD(matrix,n-1);
+        print(matrix, 3);
+
+    }
+    static void reverseD(int[][] arr, int n){
+        int i=0, x=0;
+        int j=n, y=n;
+        while((i<=j)&&(x<=y)){
+            int temp1 = arr[i][i];
+            arr[i][i] = arr[j][j];
+            arr[j][j] = temp1;
+            i++;
+            j--;
+    
+            int temp2 = arr[x][y];
+            arr[x][y] = arr[y][x];
+            arr[y][x] = temp2;
+            x++;
+            y--;
+        }
+    }
+  }
