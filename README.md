@@ -254,11 +254,11 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
   
   **#Day 26** 
 
-  Interview Questions ( Problems Solved: 2)
+  Interview Questions ( Problems Solved: 3)
   
   1) <a href="">Quick Sort</a>  <a href="https://youtu.be/WIrA4YexLRQ?si=hryw_nlbsGFAPYzf">↗️</a>
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Reverse%20Diagonals.txt">Reverse Diagonals</a>  <a href="">[Interview Question]↗️</a>
-  3) <a href=""></a>  <a href="">↗️</a>
+  3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Rotate%20Matrix.txt">Rotate Matrix</a>  <a href="https://www.codingninjas.com/studio/problems/981260?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTabValue=PROBLEM">↗️</a>
   
   **#Day 26**
   
