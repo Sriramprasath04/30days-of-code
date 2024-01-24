@@ -1,0 +1,58 @@
+import java.util.* ;
+
+public class Solution {
+    public static void rotateMatrix(ArrayList<ArrayList<Integer>> mat, int n, int m) {
+        // Write your code here.\
+
+        // 1 2 3    4 1 2
+        // 4 5 6 => 4 5 3
+        // 7 8 9    8 9 6
+        if(n != 1 && m!=1){
+            int top = 0, left = 0;
+            int bottom = n-1, right = m-1;
+
+            while((top<=bottom) && (left<=right)){
+                
+                if(left == right || top == bottom){
+                    break;
+                }
+                
+                int next = mat.get(left).get(top);
+                for(int i=left+1; i<=right ;i++){
+                    int temp = mat.get(top).get(i);
+                    mat.get(top).set(i, next);
+                    next = temp;
+                }
+                top++;
+
+                for(int j=top; j<=bottom ;j++){
+                    int temp = mat.get(j).get(right);
+                    // System.out.println("--" + mat.get(j).get(right));
+                    mat.get(j).set(right, next);
+                    next = temp;
+                }
+                right--;
+
+                if(top<=bottom){
+                    for(int k=right; k>=left ;k--){
+                        int temp = mat.get(bottom).get(k);
+                        mat.get(bottom).set(k, next);
+                        next = temp;
+                    }
+                    bottom--;
+                }
+
+                if(left<=right){
+                    for(int l=bottom; l>=top ;l--){
+                        int temp = mat.get(l).get(left);
+                        mat.get(l).set(left, next);
+                        next = temp;
+                    }
+                    mat.get(top-1).set(left, next);
+                    left++;
+                }
+
+            }
+        }
+    }
+}
