@@ -260,9 +260,11 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Reverse%20Diagonals.txt">Reverse Diagonals</a>  <a href="">[Interview Question]↗️</a>
   3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Rotate%20Matrix.txt">Rotate Matrix</a>  <a href="https://www.codingninjas.com/studio/problems/981260?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTabValue=PROBLEM">↗️</a>
   
-  **#Day 26**
+  **#Day 27**
+
+  String ( Problems Solved: 1)
   
-  1) <a href=""></a>  <a href="">↗️</a>
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Roman%20Numeral%20To%20Integer.txt">Roman Numeral To Integer</a>  <a href="https://youtu.be/dlATMslQ6Uc?si=E2bzTXD5qyXls8-2">↗️</a>
   2) <a href=""></a>  <a href="">↗️</a>
   3) <a href=""></a>  <a href="">↗️</a>
   4) <a href=""></a>  <a href="">↗️</a>
