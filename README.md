@@ -269,12 +269,12 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
 
   **Day 28**
   
-  Arrays (Problems Solved: 5)
+  Arrays (Problems Solved: 6)
   
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Find%20triplets%20with%20zero%20sum.txt">Find triplets with zero sum</a>  <a href="https://www.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1?page=3&sortBy=submissions">↗️</a>
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Matrix%20Multiplication.txt">Matrix Multiplication</a>  <a href="https://youtu.be/BtDPVc7H1Zs?si=NM-bKk-S2X4Y72eJ">↗️</a>
   3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Print%20Matrix%20Diagonally%20(Diagonal%20order).txt">Print Matrix Diagonally (Diagonal order)</a>  <a href="https://youtu.be/T8ErAYobcbc?si=LFbfax6tQSTKXFxX">↗️</a>
   4) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Count%20Sorted%20Rows.txt">Count Sorted Rows</a>  <a href="https://www.geeksforgeeks.org/problems/count-sorted-rows2702/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article">↗️</a>
   5) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Find%20maximum%20element%20of%20each%20row%20in%20a%20matrix.txt">Find maximum element of each row in a matrix</a>  <a href="https://www.geeksforgeeks.org/find-maximum-element-row-matrix/">↗️</a>
-  6) <a href=""></a>  <a href="">↗️</a>
+  6) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Common%20elements%20in%20all%20rows%20of%20a%20given%20matrix.txt">Common elements in all rows of a given matrix</a>  <a href="https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/">↗️</a>
   7) <a href=""></a>  <a href="">↗️</a>
