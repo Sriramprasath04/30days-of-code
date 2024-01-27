@@ -1,0 +1,50 @@
+public class Multiply {
+    public static void main(String[] args) {
+        int[][] arr1 = {{1,2,3},{4,5,6}};
+        int[][] arr2 = {{7,8},{9,10},{11,12}};
+
+        int m1 = arr1.length;
+        int m2 = arr2.length;
+        int n1 = arr1[0].length;
+        int n2 = arr2[0].length;
+
+        if(n1 == m2){
+            multiply(arr1, arr2, m1, m2, n1, n2);
+        } else {
+            System.out.println("Multiplication can't be performed");
+        }
+    }
+    static void multiply(int[][] arr1, int[][] arr2, int m1, int m2, int n1, int n2){
+        int[][] res = new int[m1][n2];
+
+        for(int i=0; i<m1 ;i++){
+            //m1  n1    //m2  n2    //m1  n2
+            //2 X 3     //3 X 2    // 2 X 2
+            // 1 2 3    // 7  8    // 58  64
+            // 4 5 6    // 9  10   // 139 154
+                        // 11 12
+
+            for(int j=0; j<n2 ;j++){
+                int sum = 0;
+                for(int k=0; k<n1 ;k++){
+                    sum = sum + (arr1[i][k] * arr2[k][j ]);
+                    // 0 0 <-> 0 0      1 0 <-> 0 1
+                    // 0 1 <-> 1 0      1 1 <-> 1 1
+                    // 0 2 <-> 2 0      1 2 <-> 2 1
+                }
+                res[i][j] = sum;
+            }
+        }
+        print(res);
+    }
+    static void print(int[][] res){
+        for(int i=0; i<res.length ;i++){
+            for(int j=0; j<res[0].length ;j++){
+                System.out.print(res[i][j]+" ");
+            }
+            System.out.println();
+        }
+        System.out.println();
+    }
+
+}
