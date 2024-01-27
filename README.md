@@ -269,7 +269,9 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
 
   **Day 28**
   
-  Arrays (Problems Solved: 1)
+  Arrays (Problems Solved: 2)
   
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Find%20triplets%20with%20zero%20sum.txt">Find triplets with zero sum</a>  <a href="https://www.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1?page=3&sortBy=submissions">↗️</a>
-  2) <a href=""></a>  <a href="">↗️</a>
+  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Matrix%20Multiplication.txt">Matrix Multiplication</a>  <a href="https://youtu.be/BtDPVc7H1Zs?si=NM-bKk-S2X4Y72eJ">↗️</a>
+  3) <a href=""></a>  <a href="">↗️</a>
+  3) <a href=""></a>  <a href="">↗️</a>
