@@ -1,0 +1,30 @@
+public class PrintDiagonally {
+    public static void main(String[] args) {
+        int arr[][] = {{1,2,3},{4,5,6},{7,8,9}};
+        printDiagonally(arr);
+    }
+    // 1 2 3
+    // 4 5 6 => 1 4 2 7 5 3 8 6 9
+    // 7 8 9
+    static void printDiagonally(int[][] arr){
+        for(int k=0; k<arr.length ;k++){
+            int i = k;
+            int j = 0;
+            while(i>=0){
+                System.out.print(arr[i][j]+" ");
+                i--;
+                j++;
+            }
+        }
+
+        for(int k=1; k<arr[0].length ;k++){
+            int i = arr.length-1;
+            int j = k;
+            while(j<arr[0].length){
+                System.out.print(arr[i][j]+" ");
+                i--;
+                j++;
+            }
+        }
+    }
+}
