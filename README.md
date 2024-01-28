@@ -277,4 +277,13 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
   4) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Count%20Sorted%20Rows.txt">Count Sorted Rows</a>  <a href="https://www.geeksforgeeks.org/problems/count-sorted-rows2702/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article">↗️</a>
   5) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Find%20maximum%20element%20of%20each%20row%20in%20a%20matrix.txt">Find maximum element of each row in a matrix</a>  <a href="https://www.geeksforgeeks.org/find-maximum-element-row-matrix/">↗️</a>
   6) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Common%20elements%20in%20all%20rows%20of%20a%20given%20matrix.txt">Common elements in all rows of a given matrix</a>  <a href="https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/">↗️</a>
-  7) <a href=""></a>  <a href="">↗️</a>
+  
+**Day 29**
+
+  Arrays ( Problems Solved: 1)
+
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Left%20Rotate%20Matrix%20K%20times.txt">Left Rotate Matrix K times</a>  <a href="https://youtu.be/wvcQg43_V8U?si=9m-mbEjSSmadU5nY">↗️</a>
+  2) <a href=""></a>  <a href="">↗️</a>
+  3) <a href=""></a>  <a href="">↗️</a>
+  4) <a href=""></a>  <a href="">↗️</a>
+  5) <a href=""></a>  <a href="">↗️</a>
