@@ -1,0 +1,54 @@
+public class PatternX {
+
+//  5               1
+//      4       2
+//          3
+//      2       4
+//  1               5
+
+    public static void main(String[] args) {
+        int n = 7;
+        int x = n;
+        int y = 1;
+        for(int i=0; i<n/2 ;i++){
+            for(int j=0; j<=n/2 ;j++){
+                if(i==j){
+                    System.out.print(x+" ");
+                    x--;
+                } else {
+                    System.out.print("  ");
+                }
+            }
+            for(int k=n/2+1; k<n ;k++){
+                if(k==n-i-1){
+                    System.out.print(y+" ");
+                    y++;
+                } else {
+                    System.out.print("  ");
+                }
+            }
+            System.out.println();
+        }
+        y++;
+        for(int i=0; i<=n/2 ;i++){
+            for(int j=0; j<=n/2 ;j++){
+                if(j==(n/2)-i){
+                    System.out.print(x+" ");
+                    x--;
+                } else {
+                    System.out.print("  ");
+                }
+            }
+            for(int k=1; k<(n/2)+1 ;k++){
+                if(k==i){
+                    System.out.print(y+" ");
+                    y++;
+                } else {
+                    System.out.print("  ");
+                }
+            }
+            System.out.println();
+        }
+
+    }
+}
