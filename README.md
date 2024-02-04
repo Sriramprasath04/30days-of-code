@@ -287,7 +287,7 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
   
 **Day 30**
 
-  Greedy Algorithms + Binary Search (Problems Solved: 1)
+  Greedy Algorithms (Problems Solved: 3)
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Greedy%20Algorithms/Chocolate%20Distribution%20(Type%20-1).txt">Chocolate Distribution (Type -1)</a>  <a href="https://www.codingninjas.com/studio/problems/chocolate-problem_893280?interviewProblemRedirection=true&leftPanelTabValue=SUBMISSION">↗️</a>
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Word%20Search.txt">Word Search</a>  <a href="https://youtu.be/hPyR1un7_hw?si=gnuW1UeTTCNhRC3M">↗️</a>
-  5) <a href=""></a>  <a href="">↗️</a>
+  5) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Patterns/PatternX.txt">PatternX</a>  <a href="https://youtu.be/2ul2JSWj52U?si=wxNCWBz7iUFYnCJE">↗️</a>
