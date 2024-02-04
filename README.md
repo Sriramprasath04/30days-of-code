@@ -289,5 +289,5 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
 
   Greedy Algorithms + Binary Search (Problems Solved: 1)
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Greedy%20Algorithms/Chocolate%20Distribution%20(Type%20-1).txt">Chocolate Distribution (Type -1)</a>  <a href="https://www.codingninjas.com/studio/problems/chocolate-problem_893280?interviewProblemRedirection=true&leftPanelTabValue=SUBMISSION">↗️</a>
-  2) <a href=""></a>  <a href="">↗️</a>
+  2) <a href="">Word Search</a>  <a href="">↗️</a>
   5) <a href=""></a>  <a href="">↗️</a>
