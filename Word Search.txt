@@ -1,0 +1,33 @@
+int n = board.length;
+        int m = board[0].length;
+        for(int i=0; i<n ;i++){
+            for(int j=0; j<m ;j++){
+                if(word.charAt(0) == board[i][j]){
+                    if(check(board, word, 0, i, j)){
+                        return true;
+                    } 
+                }
+            }
+        }
+        return false;
+    }
+
+    static boolean check( char[][] m, String w, int indx, int k, int l){
+        if(indx == w.length()){
+            return true;
+        }
+        
+        if(k<0 || l<0 || k==m.length || l==m[0].length || m[k][l]!=w.charAt(indx)){
+            return false;
+        }
+        
+        char temp = m[k][l];
+        m[k][l] = '#';
+        boolean top = check(m, w, indx+1, k-1, l);
+        boolean rht = check(m, w, indx+1, k, l+1);
+        boolean lft = check(m, w, indx+1, k, l-1);
+        boolean btm = check(m, w, indx+1, k+1, l);
+        m[k][l] = temp;
+        
+        return top || rht || lft || btm;
+    }
