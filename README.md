@@ -297,3 +297,4 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
 
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Patterns/Look%20and%20Say%20Sequence%20Program.txt">Look and Say Sequence Program</a> <a href="https://youtu.be/O0rj61-jPPc?si=3cO-GlJW1BBCxBJ-">↗️</a>
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Loops/Odd%20Numbers%20Between%20the%20Range.txt">Odd Numbers Between the Range</a>  <a href="">↗️</a>
+  3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sorting/Factors%20Arrangement.txt">FactorsArrangement</a>  <a href="https://suganyamurali.blogspot.com/2016/06/to-find-factors-of-numbers-given-in.html"></a>
