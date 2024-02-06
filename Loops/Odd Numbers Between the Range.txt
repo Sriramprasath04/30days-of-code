@@ -1,0 +1,20 @@
+/*
+Find the odd numbers between the range x and y
+x = 3 | | y = 15;
+*/
+
+public class OddNums {
+    public static void main(String[] args) {
+        int x = 3;
+        int y = 15;
+        if(x%2==0){
+            for(int i=x+1; i<y ;i=i+2){
+                System.out.print(i+" ");
+            }
+        } else {
+            for(int i=x+2; i<y ;i=i+2){
+                System.out.print(i+" ");
+            }
+        }
+    }
+}
