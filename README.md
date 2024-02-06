@@ -290,4 +290,9 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
   Greedy Algorithms (Problems Solved: 3)
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Greedy%20Algorithms/Chocolate%20Distribution%20(Type%20-1).txt">Chocolate Distribution (Type -1)</a>  <a href="https://www.codingninjas.com/studio/problems/chocolate-problem_893280?interviewProblemRedirection=true&leftPanelTabValue=SUBMISSION">↗️</a>
   2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Matrix/Word%20Search.txt">Word Search</a>  <a href="https://youtu.be/hPyR1un7_hw?si=gnuW1UeTTCNhRC3M">↗️</a>
-  5) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Patterns/PatternX.txt">PatternX</a>  <a href="https://youtu.be/2ul2JSWj52U?si=wxNCWBz7iUFYnCJE">↗️</a>
+  3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Patterns/PatternX.txt">PatternX</a>  <a href="https://youtu.be/2ul2JSWj52U?si=wxNCWBz7iUFYnCJE">↗️</a>
+
+
+**Day 31**
+
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Patterns/Look%20and%20Say%20Sequence%20Program.txt">Look and Say Sequence Program</a> <a href="https://youtu.be/O0rj61-jPPc?si=3cO-GlJW1BBCxBJ-"></a>
