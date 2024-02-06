@@ -295,4 +295,5 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
 
 **Day 31**
 
-  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Patterns/Look%20and%20Say%20Sequence%20Program.txt">Look and Say Sequence Program</a> <a href="https://youtu.be/O0rj61-jPPc?si=3cO-GlJW1BBCxBJ-"></a>
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Patterns/Look%20and%20Say%20Sequence%20Program.txt">Look and Say Sequence Program</a> <a href="https://youtu.be/O0rj61-jPPc?si=3cO-GlJW1BBCxBJ-">↗️</a>
+  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Loops/Odd%20Numbers%20Between%20the%20Range.txt">Odd Numbers Between the Range</a>  <a href="">↗️</a>
