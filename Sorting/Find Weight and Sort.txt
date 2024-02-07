@@ -1,0 +1,77 @@
+/*
+    1) 5 if perfect square
+    2) 4 if multiple of 4 and divisible by 6
+    3) 3 if even number
+    then sort the numbers (increasing order) based on their weights and print
+
+    ip : [ 10, 36, 54, 89, 12 ]
+    op : [ <10,w>, <36,w>, <89,w>, ...]
+
+*/
+public class FindWeight {
+    public static void main(String[] args) {
+        int[] arr = {10, 36, 54, 89, 12};
+        int n = arr.length;
+        int[] wt = new int[n];
+
+        for(int i=0; i<n ;i++){
+            int weight = 0;
+            if(isSquare(arr[i])){
+                weight += 5;
+            }
+
+            if(arr[i]%4 == 0 && arr[i]%6 == 0){
+                weight += 4;
+            }
+
+            if(arr[i]%2 == 0){
+                weight += 3;
+            }
+            wt[i] = weight;
+        }
+        for(int i: arr){
+            System.out.print(i+" ");
+        }
+        System.out.println();
+        for(int i: wt){
+            System.out.print(i+" ");
+        }
+        System.out.println();
+
+        for(int i=0; i<n ;i++){
+            for(int j=1; j<n-i ;j++){
+                if(wt[j-1]>wt[j]){
+                    int temp1, temp2 ;
+                    temp1 = arr[j-1];
+                    arr[j-1] = arr[j];
+                    arr[j] = temp1;
+
+                    temp2 = wt[j-1];
+                    wt[j-1] = wt[j];
+                    wt[j] = temp2;
+                }
+            }
+        }
+
+        for(int i=0; i<n ;i++){
+            System.out.print("< "+arr[i]+" "+wt[i]+" > ");
+        }
+    }
+
+    static boolean isSquare(int val){
+        int f = 1;
+        int l = val/2;
+        while(f<=l){
+            int mid = (f+l)/2;
+            int sqr = mid*mid;
+            if(sqr == val){
+                return true;
+            } else if (sqr>mid) {
+                l = mid-1;
+            } else {
+                f = mid+1;
+            }
+        }
+        return false;
+    }
+}
