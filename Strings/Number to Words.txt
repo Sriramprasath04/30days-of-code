@@ -1,0 +1,40 @@
+/*
+    Output the Numbers to Words (0 - 999)
+    Input: 234
+    Output: Two hundred and Thirty Four
+*/
+
+public class NumToWords {
+    public static void main(String[] args) {
+        int num = 177;
+        String res = "";
+        String[] edge = {};
+        if(0>num || num>999){
+            System.out.println("Invalid");
+        } else {
+            int a = num%10;   // 7 (rem)
+            int b = num/10;   // 21
+            int c = b%10;     // 1 (pre-rem)
+            int d = num/100;  // 2
+
+            String[] sD = {"", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
+            String[] ty = {"", "Ten", "Twenty", "Thirty", "Fourty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
+            String h = "hundred";
+            if(num<20){
+                res = res + sD[num];
+            } else if (num>=20 && num<100) {
+                res = res + ty[c]+" "+sD[a];
+            } else {
+                if(c==0 && a==0){
+                    res = res + sD[d] + " " + h;
+                } else if (c<2) {
+                    int val = (c*10)+a;
+                    res = res + sD[d] + " " + h + " and " + sD[val];
+                } else {
+                    res = res + sD[d] + " " + h + " and " + ty[c] + " " + sD[a];
+                }
+            }
+        }
+        System.out.println(res);
+    }
+}
