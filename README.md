@@ -307,5 +307,8 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
   3) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sorting/Alternative%20Sorting.txt">Alternative Sorting</a> <a href="https://www.geeksforgeeks.org/problems/alternative-sorting1311/1?page=4&company=Zoho&sortBy=submissions">↗️</a>
   4) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Loops/Valid%20Perfect%20Square.txt">Valid Perfect Square</a> <a href="https://leetcode.com/problems/valid-perfect-square/description/">↗️</a>
   5) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sorting/Find%20Weight%20and%20Sort.txt">Find Weight and Sort</a>
-  6) <a href=""></a> <a href="">↗️</a>
-  7) <a href=""></a> <a href="">↗️</a>
+  
+**Day 32**
+
+  1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Strings/Run%20Length%20Encoding.txt">Run Length Encoding</a> <a href="https://www.geeksforgeeks.org/problems/run-length-encoding/1">↗️</a>
+  2) <a href=""></a> <a href="">↗️</a>
