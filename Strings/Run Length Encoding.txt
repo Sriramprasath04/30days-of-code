@@ -1,0 +1,26 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String str = sc.next();
+        test(str);
+    }
+    static void test(String str){
+        int len = str.length()-1;
+        String res = "";
+        String num = "";
+        while(len>=0){
+            char ch = str.charAt(len);
+            if(ch<='9' && ch>='0'){
+                num = ch + num;
+            } else {
+                for(int i=0; i<Integer.parseInt(num) ;i++){
+                    res = ch + res;
+                }
+                num = "";
+            }
+            len--;
+        }
+        System.out.println(res);
+    }
