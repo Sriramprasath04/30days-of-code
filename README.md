@@ -311,4 +311,5 @@ Recursion + Sorting + Matrix ( Problems Solved: 5)
 **Day 32**
 
   1) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Strings/Run%20Length%20Encoding.txt">Run Length Encoding</a> <a href="https://www.geeksforgeeks.org/problems/run-length-encoding/1">↗️</a>
+  2) <a href="https://github.com/Sriramprasath04/30days-of-code/blob/main/Sorting/Bitonic%20Generator%20Sort.txt">Bitonic Generator Sort</a> <a href="https://www.geeksforgeeks.org/problems/bitonic-generator-sort3343/1">↗️</a>
   2) <a href=""></a> <a href="">↗️</a>
